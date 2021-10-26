@@ -29,3 +29,5 @@ Trips by Weekday per Hour (by Gender): The final Heatmap showcases the same info
 Summary
 
 Overall the story I created kind of melded itself around usage, gender and geographic areas of interest. The descriptions for the graph I feel offer a decent idea of how the graphs can flow from one another and the main takeaways for the usage of the graphs as well. If I had time to create two other visualizations, I would love to get an idea of whether or not for Customers vs Subscribers, if there are specific startpoints or endpoints that differ from one another. Essentially it would help identify if conventional customers have different popular start points or end points compared to subscribers which could be useful for advertising to less populated areas where customers could be exposed to promotions to become subscribers. Lastly, another visualization I could think of is whether or not the bikeId's allow a visualization for how often certain bikes have been used compared to others for repairs, whether some bikes need to replaced due to over usage etc.
+
+(Visualization created with Tableau Public displays all mentioned CitiBike data for analysis)
